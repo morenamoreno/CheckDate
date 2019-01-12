@@ -7,7 +7,7 @@ package checkdate;
 
 /**
  *
- * @author morenamoreno
+ * @author morenamoreno 
  */
 import java.util.Scanner;// import scanner to use
 
